@@ -1,4 +1,4 @@
-# Notes to Textbook Converter
+# Praxi - The Notes to Textbook Converter
 
 This project contains a Python script that converts a set of notes into a structured markdown textbook using the OpenAI GPT model. It processes input notes, generates detailed sections for each concept, and compiles them into a cohesive markdown document.
 
