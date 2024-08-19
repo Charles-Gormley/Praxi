@@ -46,9 +46,9 @@ This project contains a Python script that converts a set of notes into a struct
 
 An example script `example_usage.py` is provided to demonstrate how to use the Notes to Textbook Converter in your own Python scripts.
 
-To run the example:
+To run the example, go into the src/examples folder & run
 ```
-python example_usage.py
+python example_1.py
 ```
 
 This will generate a textbook based on the example notes provided in the script.
